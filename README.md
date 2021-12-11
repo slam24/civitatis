@@ -12,8 +12,8 @@
 3. Run command `npm install` for js depencencies.
 4. Run command `php artisan migrate` to migrate database.
 5. Run command `php artisan db:seed` to seed the database.
-6. Run command `php artisan serve` to up the server.
-7. Run command `npm run watch` to up the front code.
+6. Run command `php artisan serve` get the server up.
+7. Run command `npm run watch` get the code front up.    
 
 ## Tests
 
